@@ -6,6 +6,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0C0A08&labelColor=4C90F0&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/badge/UCP+LAHORE-SOPHOMORE-0C0A08?style=for-the-badge&labelColor=4C90F0"/>
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0C0A08&labelColor=8CA5B5&label=FOLLOWERS"/>
@@ -13,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oCfV/giphy.gif" width="28"/> About Me
 
@@ -44,7 +46,7 @@ I am a **BS Computer Science sophomore** at the **University of Central Punjab, 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="28"/> Tech Stack
 
@@ -62,7 +64,7 @@ I am a **BS Computer Science sophomore** at the **University of Central Punjab, 
 <tr><td><strong>🤖 AI & Emerging Tech</strong></td><td><code>Prompt Engineering</code> · <code>AI-Assisted Dev</code> · <code>AI Image Prompting</code></td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Featured Projects
 
@@ -115,7 +117,7 @@ Console-based calculator looping on two numbers and an operator (+, −, ×, ÷)
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"/> GitHub Analytics
 
@@ -141,7 +143,7 @@ Console-based calculator looping on two numbers and an operator (+, −, ×, ÷)
 
 > *The snake animation regenerates nightly from your contribution graph. It needs a small GitHub Actions workflow in this repository, added separately as `snake.yml`, plus swapping `YOUR_GITHUB_USERNAME` throughout this file for your actual GitHub handle.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Interests
 
@@ -155,7 +157,7 @@ Console-based calculator looping on two numbers and an operator (+, −, ×, ÷)
 <tr><td><strong>Traveling</strong></td><td><img src="https://geps.dev/progress/50?dangerColor=800000&warningColor=C98A2C&successColor=8CA5B5"/></td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> Languages
 
@@ -167,7 +169,7 @@ Console-based calculator looping on two numbers and an operator (+, −, ×, ÷)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C90F0,50:2E6F95,100:1D3557&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C90F0,50:2E6F95,100:1D3557&height=40&width=100%25&animation=fadeIn" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Let's Connect
 
@@ -182,5 +184,7 @@ Console-based calculator looping on two numbers and an operator (+, −, ×, ÷)
 <i>"Combining low-level software engineering with highly interactive and visual digital experiences."</i>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,50:2E6F95,100:4C90F0&height=140&section=footer&animation=twinkling" width="100%"/>
